@@ -1,4 +1,4 @@
-Here is a `README.md` file for your project:
+
 # Facade Design Pattern in C#
 
 This project demonstrates the implementation of the **Facade Design Pattern** in C#. The Facade Pattern provides a unified interface to a set of interfaces in a subsystem. It simplifies the interaction with complex systems by creating a higher-level interface that makes the system easier to use.
